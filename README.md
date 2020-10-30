@@ -1,1 +1,1 @@
-# earth-system-science-sutdy-guide
+# earth-system-science-study-guide
