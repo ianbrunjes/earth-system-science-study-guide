@@ -1,0 +1,58 @@
+---
+title: "ESM 203 Study Guide"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: rstudio/bookdown-demo
+description: "Review of topics covered in ESM 203 Earth System Science."
+---
+
+# Overview {-}
+This guide contains study material for ESM 203 Earth Systems Science.
+
+It is organized by weekly topic, and then by key sub-topics that were highlighted in the provided list from TAs.
+
+Disclaimer: this is by no means comprehensive, and almost certain to contain incorrect or unclear explanations.
+
+## Key Topics {-}
+**Systems Science**
+
+* [State variable](#state)
+* [Open v. closed systems](#systemtype)
+* [Steady State]
+* [Turnover times][Residence Time]
+* [Positive and negative feedback loops](#loops)
+* [Extensive v. intensive](#variabletype)
+* [Stable vs Unstable Systems]
+
+**Energy**
+
+* [Shortwave and Longwave Radiation]
+* [Albedo]
+* [Emissivity]
+* [Radiative Absorption, Reflection, and Transmission]
+* [Relationship of Radiative Energy and Temperature]
+* [Forms of Energy Transfer]
+* [Latent Heat]
+* [Sensible Heat]
+* [Conductance vs Resistance]
+
+**Atmospheric Science**
+
+* [Coriolis Effect]
+* [Hadley circulation]
+* [Geostrophic Balance & Geostriphic Wind]
+* [Hydrostatic Balance]
+* [Geopotential Height]
+* [Lifting Condensation Level]
+* [Vapor Pressure & Saturation Vapor Pressure]
+* [Adiabatic Lapse Rates]
+* [Static Stability]
+* [Inversions]
+* [Fronts]
+
+
+```{r eval=FALSE, include = FALSE}
+install.packages("bookdown")
+install.packages("servr")
+```
